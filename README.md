@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Chris, and I'm a data enthusiast from the Midwest. I'm passionate about drawing insights from datasets to make data-driven decisions, and I'm always eager to learn "what's new" as the data landscape continues to evolve.
+
+🧠 Continuous learner ready to leverage data scient to make the world a better place. 🧠
+
+- 🔭 I’m currently working on Python, SQL, and Machine Learning projects.
+- 🌱 I’m currently learning new techniques in AI and deep learning.
+- 🤔 I’m looking for help with levelling-up my knowledge and understanding of all-things data science.
+- ⚡ Fun fact: I have two golden retrievers, and am obsessed with the Nebraska Cornhuskers!
+
 <!--
 **cwburma0608/cwburma0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
