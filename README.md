@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Chris! 👋
 
-My name is Chris, and I'm a data enthusiast from the Midwest. I'm passionate about drawing insights from datasets to make data-driven decisions, and I'm always eager to learn "what's new" as the data landscape continues to evolve.
+My name is Chris Burma, and I'm a data enthusiast from the Midwest. I'm passionate about drawing insights from datasets to make data-driven decisions, and I'm always eager to learn "what's new" as the data landscape continues to evolve.
 
 🧠 Continuous learner ready to leverage data scient to make the world a better place. 🧠
 
